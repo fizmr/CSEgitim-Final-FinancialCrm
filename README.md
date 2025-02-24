@@ -3,6 +3,7 @@
 ✅C# Eğitim kampının finali olan bu projede kullanıcının giriş yaptıktan sonra banka hesaplarını,en son yaptığı işlemleri,genel hesap özetini görebildiği bir uygulama tasarladım.Ben yaparken çok eğlendim umarım sizinde hoşunuza gider.Aşağıdadaki ekran görüntüleri benim projeme aittir;
 
 ✅Giriş yapma ekranı;
+
 ![Ekran görüntüsü 2025-02-24 173644](https://github.com/user-attachments/assets/7fb4ce3e-1244-4d46-acb6-36cf1b7016cf)
 
 ✅Giriş yaptıktan sonra sizi karşılayacak olan Dashboard ekran;
