@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/49762063-9388-460a-891e-4f6483b0a891)⭐⭐C# Eğitim Kampı Final (FinancialCrm) Projesi⭐⭐
+⭐⭐C# Eğitim Kampı Final (FinancialCrm) Projesi⭐⭐
 
 ✅C# Eğitim kampının finali olan bu projede kullanıcının giriş yaptıktan sonra banka hesaplarını,en son yaptığı işlemleri,genel hesap özetini görebildiği bir uygulama tasarladım.Ben yaparken çok eğlendim umarım sizinde hoşunuza gider.Aşağıdadaki ekran görüntüleri benim projeme aittir;
 
